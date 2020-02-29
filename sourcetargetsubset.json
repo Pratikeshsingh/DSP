@@ -5,7 +5,7 @@
 {"x": 108.12677, "y": 48.27322, "sub": "fireteams"},
 {"x": -109.04855, "y": 72.54989, "sub": "funny"},
 ],
-"links":[
+"links": [
 {"source": "askreddit", "target": "globaloffensivetrade"},
 {"source": "askreddit", "target": "fireteams"},
 {"source": "funny", "target": "globaloffensivetrade"},
