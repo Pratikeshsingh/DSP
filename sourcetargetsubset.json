@@ -1,0 +1,15 @@
+{
+"nodes": [
+{"x": -58.47407, "y": 88.476105, "sub": "askreddit"},
+{"x": 102.64898000000001, "y": 31.102951, "sub": "globaloffensivetrade"},
+{"x": 108.12677, "y": 48.27322, "sub": "fireteams"},
+{"x": -109.04855, "y": 72.54989, "sub": "funny"},
+],
+"links":[
+{"source": "askreddit", "target": "globaloffensivetrade"},
+{"source": "askreddit", "target": "fireteams"},
+{"source": "funny", "target": "globaloffensivetrade"},
+{"source": "globaloffensivetrade", "target": "fireteams"},
+{"source": "fireteams", "target": "funny"}
+]
+}
